@@ -2,7 +2,7 @@ package NestedForLoop;
 
 import java.util.Scanner;
 
-public class DimondNumberPattern {
+public class DiamondNumberPattern {
 
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);

@@ -2,7 +2,7 @@ package NestedForLoop;
 
 import java.util.Scanner;
 
-public class CharNestedForLoop {
+public class PyramadeCharPattern {
 
 			public static void main(String[] args) {
 				Scanner sc=new Scanner(System.in);

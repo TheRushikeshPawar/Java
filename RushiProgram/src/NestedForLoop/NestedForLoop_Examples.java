@@ -52,7 +52,9 @@ public class NestedForLoop_Examples {
 		  {
 		   System.out.print((char)(64+i)+" ");
 		  
-		  } System.out.println(); }
+		  } System.out.println(); 
+}
+		  
 		 
 		
 		for(int i=r;i>=1;i--)

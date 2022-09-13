@@ -17,7 +17,7 @@ public class NestedForm_ForLoopStarPattern {
 			System.out.print("* ");
 		}
 		System.out.println();         
-	}
+	}*/
 	
 	for(int i=r-1;i>=1;i--)                      // Dessending Order
 	{
@@ -25,7 +25,8 @@ public class NestedForm_ForLoopStarPattern {
 		{
 			System.out.print("* ");
 		}
-		System.out.println();*/
+		System.out.println();
+	}
 	
 	for(int i=r;i>=1;i--)                      // Dessending Order
 	{
