@@ -6,8 +6,8 @@ public class ArraySort {
 	
 	void sorting(int arr[])             //Second Logic Of Sorting
 	{
-		int leg=arr.length;
-		for(int i=0;i<arr.length;i++)
+		int leg=arr.length; 
+		for(int i=0;i<arr.length;i++)                //Bubble sorting
 		{
 			for(int j=i+1;j<arr.length;j++)
 			{

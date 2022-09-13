@@ -7,11 +7,19 @@ public class AlternativeNumber {
 	
 	void alternative(int arr[],int size)
 	{
+		int sum=0;
 		for(int i=0;i<size;i=i+2)
 		{
-			
 			System.out.print(arr[i]+" ");
 		}
+		System.out.println();
+		for(int i=0;i<size;i=i+2)
+		{
+			sum=sum+arr[i];
+			
+		}
+		System.out.print("Sum of Alternative Numbers :"+sum);
+		
 	}
 	
 	public static void main(String[] args) {
