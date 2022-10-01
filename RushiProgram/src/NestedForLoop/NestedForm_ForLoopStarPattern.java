@@ -10,14 +10,16 @@ public class NestedForm_ForLoopStarPattern {
 	
 	int r=sc.nextInt();      //r=rows            Assending Order
 	
-	 /*for(int i=1;i<=r;i++)
+	 for(int i=1;i<=r;i++)
 	{
 		for(int j=1;j<=i;j++)
 		{
 			System.out.print("* ");
 		}
 		System.out.println();         
-	}*/
+	}
+	System.out.println();            //jast for line gap i am print new line
+	
 	
 	for(int i=r-1;i>=1;i--)                      // Dessending Order
 	{

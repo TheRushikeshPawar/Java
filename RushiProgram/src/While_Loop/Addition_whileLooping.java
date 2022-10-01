@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Addition_whileLooping {
 
 	public static void main(String[] args) {
+		
 			int evensum=0,oddsum=0;
 			Scanner sc=new Scanner(System.in);
 			System.out.println("Enter The limit :");

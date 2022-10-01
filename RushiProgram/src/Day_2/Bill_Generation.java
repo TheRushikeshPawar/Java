@@ -17,6 +17,7 @@ public class Bill_Generation {
 	System.out.println("Enter The Price :");
 	price=sc.nextInt();
 	System.out.println("Enter The Quantity :");
+	
 quantity=sc.nextInt();
 total=price*quantity;
 System.out.println("Total Price is :"+total);

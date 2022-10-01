@@ -8,7 +8,7 @@ public class CountAlphaDigiChar {
 		
 		int alph=0;
 		int digi=0;
-		int sChar=0;                   //sChar =Special Character
+		int sChar=0;                        //sChar =Special Character
 		
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enter Alpha Numeric Spacial Character String :");

@@ -14,7 +14,7 @@ public class Average {
 		int sum=a+b;
 		int avg=sum/5;
 		System.out.println("Sum of the Number :"+sum);
-System.out.println("Average of The Number is :"+avg);
+        System.out.println("Average of The Number is :"+avg);
 	}
 
 }

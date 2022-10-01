@@ -58,7 +58,6 @@ public class AnagramExample {
 			System.out.println("Fisrt Name and Second Name are not anagram");
 		}
 		
-
 	}
 
   }

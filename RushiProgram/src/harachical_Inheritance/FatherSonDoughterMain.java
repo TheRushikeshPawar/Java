@@ -1,6 +1,6 @@
 package harachical_Inheritance;
 
-public class FatherMain {
+public class FatherSonDoughterMain {
 
 	public static void main(String[] args) {
 		

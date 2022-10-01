@@ -35,8 +35,8 @@ public class AdditionEvenOdd {
 			
 		}
     System.out.println("Additon of Even Elements is :"+sumE);
-    System.out.println("Additon of Odd Elements is :"+sumO);
-    System.out.println("Additon of Total Elements is :"+sum);
+    System.out.println("Additon of Odd Elements is  :"+sumO);
+    System.out.println("Additon of Total Elements is:"+sum);
 	}
 
 }

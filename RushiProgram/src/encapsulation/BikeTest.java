@@ -1,11 +1,16 @@
 package encapsulation;
 
+import java.util.Scanner;
+
 public class BikeTest {
 
 	public static void main(String[] args) {
 		Bike b1=new Bike();
 		
-		b1.setId(101);
+		Scanner sc=new Scanner(System.in);
+		System.out.println("Enter The Id :");
+		int id=sc.nextInt();
+		b1.setId(id);
 		b1.setPrice(120000);
 		b1.setEngine(150);
 		

@@ -9,11 +9,13 @@ public class Car {
 	
 	Car()                          // default Constructor
 	{
-		id=00;
-		name="name";
-		brand="brand";
-		launchyear=0000;
-		price=00;
+		
+		  id=00;
+		  name="name";
+		  brand="brand";
+		  launchyear=0000;
+		  price=00;
+		 
 	}
 	
 	Car(int i,String n,String b,int y,int p)

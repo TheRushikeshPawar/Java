@@ -9,7 +9,7 @@ public class NumberSwitch {
 		System.out.println("Enter a month number :");
 		int ch=sc.nextInt();
 		System.out.println("Enter The Year :");
-	int yr=sc.nextInt();    
+	   int yr=sc.nextInt();    
 	
 		switch(ch)
 		{
