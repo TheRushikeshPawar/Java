@@ -6,6 +6,7 @@ public class ZeroOneExample {
 
 	public static void main(String[] args) {
 		Scanner sc= new Scanner(System.in);
+		System.out.println("Enter The Size : ");
 		int r=sc.nextInt();
 		for(int i=1;i<=r;i++)
 		{
@@ -26,7 +27,5 @@ public class ZeroOneExample {
 			}
 			 System.out.println();
 		}
-
 	}
-
 }

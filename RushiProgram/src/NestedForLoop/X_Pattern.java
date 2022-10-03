@@ -34,10 +34,6 @@ public class X_Pattern {
 			 }
 			 System.out.println();
 			 
-		 }
-
-		
-
+		 }	
 	}
-
 }
